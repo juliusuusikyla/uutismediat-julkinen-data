@@ -1,66 +1,65 @@
-vuosi,lehtityyppi_tilastoihin,ilmoitustuotto,kuluttajamyyntituotto
-2010,Kaupunkilehti,76,1
-2010,Muut lehdet,63,132
-2010,Paikallislehti,71,60
-2010,Päivälehti,416,361
-2011,Kaupunkilehti,82,1
-2011,Muut lehdet,65,131
-2011,Paikallislehti,74,62
-2011,Päivälehti,428,362
-2012,Kaupunkilehti,79,1
-2012,Muut lehdet,64,128
-2012,Paikallislehti,77,62
-2012,Päivälehti,393,356
-2013,Kaupunkilehti,72,1
-2013,Muut lehdet,64,117
-2013,Paikallislehti,64,60
-2013,Päivälehti,329,351
-2014,Kaupunkilehti,71,1
-2014,Muut lehdet,67,112
-2014,Paikallislehti,62,59
-2014,Päivälehti,304,344
-2015,Kaupunkilehti,70,1
-2015,Muut lehdet,69,105
-2015,Paikallislehti,59,59
-2015,Päivälehti,283,338
-2016,Kaupunkilehti,66,1
-2016,Muut lehdet,71,98
-2016,Paikallislehti,57,58
-2016,Päivälehti,270,333
-2017,Kaupunkilehti,66,1
-2017,Muut Lehdet,0,0
-2017,Muut lehdet,79,92
-2017,Paikallislehti,58,56
-2017,Päivälehti,251,332
-2018,Kaupunkilehti,61,1
-2018,Muut lehdet,82,86
-2018,Paikallislehti,53,55
-2018,Päivälehti,229,333
-2019,Kaupunkilehti,56,1
-2019,Muut lehdet,80,87
-2019,Paikallislehti,51,54
-2019,Päivälehti,211,335
-2020,Kaupunkilehti,42,1
-2020,Muut lehdet,76,84
-2020,Paikallislehti,39,55
-2020,Päivälehti,161,338
-2021,Kaupunkilehti,46,1
-2021,Muut lehdet,89,83
-2021,Paikallislehti,43,56
-2021,Päivälehti,166,339
-2022,Kaupunkilehti,45,1
-2022,Muut lehdet,91,84
-2022,Paikallislehti,42,56
-2022,Päivälehti,155,333
-2023,Kaupunkilehti,41,0
-2023,Muut lehdet,86,84
-2023,Paikallislehti,42,58
-2023,Päivälehti,140,324
-2024,Kaupunkilehti,34,0
-2024,Muut lehdet,85,86
-2024,Paikallislehti,39,58
-2024,Päivälehti,121,317
-2025,Kaupunkilehti,32,0
-2025,Muut lehdet,85,84
-2025,Paikallislehti,39,57
-2025,Päivälehti,113,316
+Vuosi,Lehtityyppi,Ilmoitustuotto,Kuluttajamyynti
+2010,kaupunkilehti,76,1
+2010,muut lehdet,63,132
+2010,paikallislehti,71,60
+2010,päivälehti,416,361
+2011,kaupunkilehti,82,1
+2011,muut lehdet,65,131
+2011,paikallislehti,74,62
+2011,päivälehti,428,362
+2012,kaupunkilehti,79,1
+2012,muut lehdet,64,128
+2012,paikallislehti,77,62
+2012,päivälehti,393,356
+2013,kaupunkilehti,72,1
+2013,muut lehdet,64,117
+2013,paikallislehti,64,60
+2013,päivälehti,329,351
+2014,kaupunkilehti,71,1
+2014,muut lehdet,67,112
+2014,paikallislehti,62,59
+2014,päivälehti,304,344
+2015,kaupunkilehti,70,1
+2015,muut lehdet,69,105
+2015,paikallislehti,59,59
+2015,päivälehti,283,338
+2016,kaupunkilehti,66,1
+2016,muut lehdet,71,98
+2016,paikallislehti,57,58
+2016,päivälehti,270,333
+2017,kaupunkilehti,66,1
+2017,muut lehdet,79,92
+2017,paikallislehti,58,56
+2017,päivälehti,251,332
+2018,kaupunkilehti,61,1
+2018,muut lehdet,82,86
+2018,paikallislehti,53,55
+2018,päivälehti,229,333
+2019,kaupunkilehti,56,1
+2019,muut lehdet,80,87
+2019,paikallislehti,51,54
+2019,päivälehti,211,335
+2020,kaupunkilehti,42,1
+2020,muut lehdet,76,84
+2020,paikallislehti,39,55
+2020,päivälehti,161,338
+2021,kaupunkilehti,46,1
+2021,muut lehdet,89,83
+2021,paikallislehti,43,56
+2021,päivälehti,166,339
+2022,kaupunkilehti,45,1
+2022,muut lehdet,91,84
+2022,paikallislehti,42,56
+2022,päivälehti,155,333
+2023,kaupunkilehti,41,0
+2023,muut lehdet,86,84
+2023,paikallislehti,42,58
+2023,päivälehti,140,324
+2024,kaupunkilehti,34,0
+2024,muut lehdet,85,86
+2024,paikallislehti,39,58
+2024,päivälehti,121,317
+2025,kaupunkilehti,32,0
+2025,muut lehdet,85,84
+2025,paikallislehti,39,57
+2025,päivälehti,113,316
